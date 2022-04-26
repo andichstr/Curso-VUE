@@ -1,0 +1,13 @@
+.mensajePrincipal {
+    color: white;
+    text-align: center;
+}
+
+.mensajeSecundario {
+    color: darkgray;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
